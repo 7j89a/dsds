@@ -8,7 +8,7 @@ import time
 # بيانات الاتصال بالبوت
 api_id = 20944746  # استبدل بـ API ID الخاص بك
 api_hash = "d169162c1bcf092a6773e685c62c3894"  # استبدل بـ API Hash الخاص بك
-bot_token = "YOUR_BOT_TOKEN"  # استبدل بـ توكن البوت الخاص بك
+bot_token = "7244461852:AAHejOsg-cTgAVoU38YVmfSgLl8UfZBxkqU"  # استبدل بـ توكن البوت الخاص بك
 
 # تشغيل البوت
 app = Client("vidsseo_downloader_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
