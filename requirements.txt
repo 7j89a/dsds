@@ -1,0 +1,3 @@
+pyrogram==2.0.106
+moviepy==1.0.3
+yt-dlp==2024.8.6
